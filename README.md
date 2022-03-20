@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @an-odd-nautolan
-- 👀 I’m interested in Star Wars and other movies
-- 🌱 I’m currently learning to code and Italian
+- 👀 I’m interested 
+- 🌱 I’m currently learning to CSS
 - 💞️ I’m looking to collaborate on ( i don't know yet)
 - 📫 How to reach me ...
 
