@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @an-odd-nautolan
 - 👀 I’m interested 
-- 🌱 I’m currently learning to CSS
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ( i don't know yet)
 - 📫 How to reach me ...
 
